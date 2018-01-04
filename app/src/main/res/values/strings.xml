@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LuckyWheelView</string>
+    <string name="blue">DẦU THU BVB-T2</string>
+    <string name="red_one">BAO LÌ XÌ </string>
+    <string name="red_two">BAO LÌ XÌ</string>
+    <string name="yellow_one">KHUNG TREO TIVI</string>
+    <string name="yellow_two">KHUNG TREO TIVI</string>
+    <string name="green_one">ÁO THUN</string>
+    <string name="green_two">ÁO THUN</string>
+    <string name="ping_one">TIVI 32""DVB-T2</string>
+
+</resources>
